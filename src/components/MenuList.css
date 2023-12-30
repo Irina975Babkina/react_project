@@ -1,0 +1,71 @@
+.Menu{
+    background-image: url(https://i.postimg.cc/3R7jXvqR/pz1.jpg);
+    border-radius: 20px;
+    padding: 5px;
+    border: 2px rgb(211, 188, 82) solid;
+    text-align: center;
+}
+.MenuList{
+    max-width: 1500px;
+    display: grid;
+    margin: 20px auto 20px;
+    align-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-auto-rows: 1fr;
+    gap: 10px;
+    justify-items: center;
+}
+.Navigation{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.PageLinkMenu{
+    padding: 3px 5px;
+    font-size: 25px;
+    color: rgb(109, 75, 33);
+    background-color: rgb(249, 243, 217);
+    width: 150px;
+    border-radius: 10px;
+    border: 2px rgb(211, 170, 82) solid;
+    margin: 5px auto;
+    text-align: center;
+}
+.PageLinkMenu:hover {
+    background-color: rgb(247, 230, 155);
+}
+.PageLinkMenu:active {
+    box-shadow: 0px 0px 7px rgb(48, 34, 34) inset;
+}
+.MenuItem{
+    border: 2px rgb(218, 178, 68) solid;
+    margin-bottom: 2px;
+    grid-column: span 1;
+    grid-row: span 1;    
+}
+
+@media (max-width: 920px) {
+    .PageLinkMenu{
+        padding: 3px 5px;
+        font-size: 20px;
+        width: 110px;
+    }
+}
+@media (max-width: 768px) {
+    .PageLinkMenu{
+        font-size: 16px;
+        width: 90px;
+    }
+}
+@media (max-width: 540px) {
+    .PageLinkMenu{
+        font-size: 15px;
+        width: 80px;
+    }
+    .Menu{
+        margin-bottom: 30px;
+    }
+}
+
+
+

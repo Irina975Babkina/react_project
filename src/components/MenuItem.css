@@ -1,0 +1,68 @@
+.MenuItem{
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: rgb(86, 39, 7);
+    background-color: blanchedalmond;
+    padding: 3px;
+}
+.MenuItem span.Price{
+    font-size: 17px;
+    text-align: center;
+}
+.MenuItem span.Name{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+}
+.MenuItem span.Ingredients{
+    padding: 3px 5px;
+    min-height: 80px;
+    font-size: 15px;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.MenuItem input.Button {
+    padding: 3px 5px;
+    font-size: 15px;
+    color: rgb(63, 55, 55);
+    background-color: rgb(235, 208, 90);
+    width: 150px;
+    border-radius: 10px;
+    border: 2px rgb(211, 188, 82) solid;
+    margin: 5px auto;
+}
+.MenuItem input.Button:hover {
+    background-color: rgb(240, 220, 134);
+}
+.MenuItem input.Button:active {
+    box-shadow: 0px 0px 7px rgb(48, 34, 34) inset;
+}
+
+@media (max-width: 768px) {
+    .MenuItem{
+        max-width: 250px;
+    }
+}
+@media (max-width: 620px) {
+    .MenuItem{
+        max-width: 350px;
+    }
+    .MenuItem span.Ingredients{
+        min-height: auto;
+    }
+}
+@media (max-width: 440px) {
+    .MenuItem{
+        max-width: 350px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }   
+}
+
+

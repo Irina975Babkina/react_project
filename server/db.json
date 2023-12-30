@@ -1,0 +1,61 @@
+{
+  "menu": 
+  [
+    {"name":"pizza Venice", "code":1, "img":"https://i.postimg.cc/gj2yc5rq/Venice.webp", "price":25, "ingredients": "chicken, bacon, leek, fresh tomato, pizza sauce, cheese, honey mustard dressing, parsley"},
+    {"name":"Pizza Capricciosa Mix", "code":2, "img":"https://i.postimg.cc/YCW6SQ2V/picca-kapricioza-miks-jpg.webp", "price":26, "ingredients": "ham, champignons, olives, pickled onions, mozzarella cheese, garlic oil, Mediterranean herbs, pizza sauce, pinochet sauce"},
+    {"name":"Pizza Diablo", "code":3, "img":"https://i.postimg.cc/sX6Qm2D7/Diablo.webp", "price":23, "ingredients": "salami, jalapeno pepper, mozzarella cheese, pizza sauce, oregano"},
+    {"name":"Hawaiian pizza with ham", "code":4, "img":"https://i.postimg.cc/Dzf1PHPV/Hawaiian.webp", "price":25, "ingredients": "ham, canned pineapple, chili pepper, mozzarella cheese, blue cheese, pizza sauce, oregano"},
+    {"name":"Hawaiian pizza with chicken", "code":5, "img":"https://i.postimg.cc/cHrYV3zX/Hawaiian-with-chicken.webp", "price":24, "ingredients": "chicken fillet, canned pineapple, chili pepper, mozzarella cheese, blue cheese, pizza sauce, oregano"},
+    {"name":"Pizza Homemade", "code":6, "img":"https://i.postimg.cc/QxL5yHJJ/Homemade.webp", "price":23, "ingredients": "ham, bacon, potatoes, pickled cucumbers, mozzarella cheese, mayonnaise, garlic, dill, oregano, pizza sauce"},
+    {"name":"Pizza Italy", "code":7, "img":"https://i.postimg.cc/vZhVTXF0/Italy.webp", "price":25, "ingredients": "ham, champignons, dried tomatoes, capers, mozzarella cheese, pizza sauce, oregano"},
+    {"name":"Pizza Tuscany", "code":8, "img":"https://i.postimg.cc/50B197D0/pizza-Toskana.webp", "price":23, "ingredients": "chicken fillet, champignons, zucchini, mozzarella cheese, pesto sauce, pizza sauce, gyros seasoning"},
+    {"name":"Pizza Capricciosa", "code":9, "img":"https://i.postimg.cc/VsF13hjZ/Capricciosa.webp", "price":25, "ingredients": "ham, champignons, olives, mozzarella cheese, pizza sauce, Mediterranean herbs"},
+    {"name":"Pizza Verona", "code":10, "img":"https://i.postimg.cc/2y0s3PGz/Verona.webp", "price":24, "ingredients": "ham, bacon, honey, onions, tomatoes, processed cheese, mozzarella cheese, pizza sauce, mayonnaise, gyros"},
+    {"name":"Pizza Carbonara", "code":11, "img":"https://i.postimg.cc/yYJQFgYh/Carbonara.webp", "price":24, "ingredients": "bacon, hard cheese, egg, mozzarella cheese, pizza sauce, gyros"},
+    {"name":"Pizza Quattro Formaggi", "code":12, "img":"https://i.postimg.cc/fyVKjpZW/picca-kvatroformadzio-jpg.webp", "price":23, "ingredients": "smoked cheese, blue cheese, mozzarella cheese, hard cheese, pizza sauce, oregano"},
+    {"name":"Pizza Toulouse", "code":13, "img":"https://i.postimg.cc/QxsgMFKx/picca-tuluza-jpg.webp", "price":25, "ingredients": "bacon, blue cheese, chicken fillet, tomatoes, smoked cheese, cream balls, mozzarella cheese, pinochet hot sauce, basil"},
+    {"name":"Beef - pizza", "code":14, "img":"https://i.postimg.cc/XqgC5gBN/bif-pizza-jpg.webp", "price":27, "ingredients": "bacon, minced beef, smoked cheese, tomatoes, canned cucumber, red onion, sesame seeds, lettuce, burger sauce, mozzarella cheese"},
+    {"name":"Pizza with parma", "code":15, "img":"https://i.postimg.cc/XYqCZdj3/picca-s-parmoj-jpg.webp", "price":27, "ingredients": "parma, pear, blue cheese, mozzarella cheese, pizza sauce, arugula"},
+    {"name":"Pizza Vegetarian", "code":16, "img":"https://i.postimg.cc/FR5dn6js/picca-vegetarianskaa-jpg.webp", "price":24, "ingredients": "tomatoes, champignons, zucchini, eggplant, onions, sweet peppers, mozzarella cheese, pizza sauce, gyros"},
+    {"name":"Pizza Mario", "code":17, "img":"https://i.postimg.cc/T2cLCChf/Mario.webp", "price":25, "ingredients": "chicken fillet, champignons, pickled cucumbers, mozzarella cheese, burger sauce, pepper mixture, Mediterranean herbs"},
+    {"name":"Pizza Margherita", "code":18, "img":"https://i.postimg.cc/8CWsW-bq8/Margherita.webp", "price":22, "ingredients": "mozzarella cheese, cherry tomatoes, pizza sauce, basil, oregano"},
+    {"name":"Pizza Ferra", "code":19, "img":"https://i.postimg.cc/8kyk73jJ/Terra.webp", "price":27, "ingredients": "ham, cured sausage, sweet pepper, jalapeno, mozzarella cheese, blue cheese, pizza sauce, Mediterranean herbs"},
+    {"name":"Pizza Kalyadnaya", "code":20, "img":"https://i.postimg.cc/43TXCRFM/picca-kaladnaa-jpg.webp", "price":24, "ingredients": "ham, bacon, tomatoes, champignons, pickled cucumbers, onions, smoked cheese, mozzarella cheese, pizza sauce, mayonnaise, garlic, gyros"},
+    {"name":"Pizza with seafood", "code":21, "img":"https://i.postimg.cc/85pD5BGm/with-seafood.webp", "price":26, "ingredients": "shrimp, salmon, squid, onion, pickled capers, cherry tomatoes, lemon, mozzarella cheese, pizza sauce. Does not apply to delivery"},
+    {"name":"Pizza Edam", "code":22, "img":"https://i.postimg.cc/FsLthncQ/Edam.webp", "price":27, "ingredients": "Ham, bacon, sausage, tomatoes, smoked cheese, mozzarella cheese, pizza sauce, Mediterranean herbs"},
+    {"name":"Ferra Burger with beef and honey", "code":23, "img":"https://i.postimg.cc/x1Q9hSZZ/ferra-burger-ballantines-jpg.webp", "price":15, "ingredients": "beef, fried bacon, fresh tomato, pickled cucumber, onion, lettuce, mustard, honey barbecue sauce"},
+    {"name":"Burger with beef and bacon", "code":24, "img":"https://i.postimg.cc/gjrxwPps/s640x640-jpg.webp", "price":15, "ingredients": "beef, cheese cream, tomato, pickled cucumber, cheddar cheese, bacon chips, arugula"},
+    {"name":"Burger with chicken", "code":25, "img":"https://i.postimg.cc/tT4TfHsb/s640x640-burger-s-govadinoj-syrnym-kremom-i-cipsami-bekona-jpg.webp", "price":15, "ingredients": "Chicken cutlet, cheddar cheese, lettuce, pickled cucumber, fresh tomato, bacon, red onion, burger sauce, mustard"},
+    {"name":"Double beef burger", "code":26, "img":"https://i.postimg.cc/g0YkXPqh/s640x640-jpg-1.webp", "price":20, "ingredients": "two beef patties, cheddar cheese, lettuce, pickles, fresh tomato, bacon, red onion, burger sauce, mustard"},
+    {"name":"Pasta with salmon", "code":27, "img":"https://i.postimg.cc/c4RvrTyV/pasta.jpg", "price":21, "ingredients": "tagliatelle, broccoli, salmon, cream 30%, milk 3.1%, nutmeg, hard cheese"},
+    {"name":"Pasta Carbonara", "code":28, "img":"https://i.postimg.cc/dVQVDY9y/pasta-karbonara-jpg.webp", "price":20, "ingredients": "spaghetti, bacon, cream sauce, hard cheese, bacon chips"},
+    {"name":"Pasta with shrimp", "code":29, "img":"https://i.postimg.cc/VkNzmFY9/pasta-s-krevetkami-jpg.webp", "price":25, "ingredients": "tagliatelle, shrimp, blue cheese, cream, arugula"},
+    {"name":"Pasta with chicken", "code":30, "img":"https://i.postimg.cc/9Md6G4mF/pasta-ch.webp", "price":23, "ingredients": "tagliatelle, chicken fillet, green beans, fresh pepper, ginger, garlic, Asian sauce, white and black sesame"},
+    {"name":"Kids Chicken cutlet and fries", "code":31, "img":"https://i.postimg.cc/mgPKmpLn/kotletka-i-kartofel-fri-jpg.webp", "price":18, "ingredients": "chicken cutlet, French fries, cherry tomatoes, radishes, olives, mayonnaise"},
+    {"name":"Kids Chicken cutlet with potatoes", "code":32, "img":"https://i.postimg.cc/dtxxZR2j/kotletka-s-kartofelnym-pure-jpg.webp", "price":18, "ingredients": "Chicken cutlet, mashed potatoes, cherry tomatoes, radishes, olives, mayonnaise"},
+    {"name":"Kids Chicken cutlet and pasta", "code":33, "img":"https://i.postimg.cc/Qtm68cN5/kotletka-i-makarony-jpg.webp", "price":18, "ingredients": "chicken cutlet, pasta, cherry tomatoes, radishes, olives, mayonnaise"},
+    {"name":"Kids Chicken nuggets", "code":34, "img":"https://i.postimg.cc/qMS1vJrm/naggetsy-jpg.webp", "price":15, "ingredients": "breaded chicken fillet, ketchup"},
+    {"name":"Kids Homemade dumplings", "code":35, "img":"https://i.postimg.cc/zDPjxzyJ/domasnie-pelmeni-jpg.webp", "price":19, "ingredients": "🙂"},
+    {"name":"Kids Pasta with cheese", "code":36, "img":"https://i.postimg.cc/jjZNCcNs/s640x640-makarony-s-syrom-jpg.webp", "price":10, "ingredients": "animaletti pasta, mozzarella cheese, butter"},
+    {"name":"Cake Cheesecake", "code":37, "img":"https://i.postimg.cc/8sQfx08b/latte-cizkejk-jpg.webp", "price":12, "ingredients": "🙂"},
+    {"name":"Cake Meringue roll", "code":38, "img":"https://i.postimg.cc/wvk694sV/s640x640-merengovyj-rulet-s-visnevym-kuli-jpg.webp", "price":12, "ingredients": "🙂"},
+    {"name":"Cake Napoleon", "code":39, "img":"https://i.postimg.cc/yYG76ZWw/s640x640-napoleon-s-pekanom-i-solenoj-karamelu-jpg.webp", "price":12, "ingredients": "🙂"},
+    {"name":"Cake Count's Ruins", "code":40, "img":"https://i.postimg.cc/XvfWg1xb/tort-grafskie-razvaliny-jpg.webp", "price":12, "ingredients": "🙂"},
+    {"name":"Donuts with sour cream", "code":41, "img":"https://i.postimg.cc/Vv6cmfwf/ponciki-jpg.webp", "price":11, "ingredients": "🙂"},
+    {"name":"Salad with tuna", "code":42, "img":"https://i.postimg.cc/TYKXs3QQ/salat-s-tuncom-jpg.webp", "price":18, "ingredients": "tuna, apple, leek, cucumber, salad mix, arugula, mitsukan sauce with ginger"},
+    {"name":"Caesar salad with tiger prawns", "code":43, "img":"https://i.postimg.cc/43QCc7N4/salat-cezar-s-tigrovymi-krevetkami-jpg.webp", "price":20, "ingredients": "shrimp, salad mix, hard cheese, olives, cherry tomatoes, bread chips, mustard, dressing"},
+    {"name":"Caesar salad with chicken", "code":44, "img":"https://i.postimg.cc/dtkzBStx/salat-cezar-s-kuricej-jpg.webp", "price":18, "ingredients": "chicken fillet, salad mix, hard cheese, olives, cherry tomatoes, bread chips, mustard, dressing"},
+    {"name":"Italian meat salad", "code":45, "img":"https://i.postimg.cc/hGg6KD8k/italanskij-masnoj-salat-jpg.webp", "price":19, "ingredients": "salami, bacon, chicken fillet, tomatoes, lettuce, leek, mozzarella cheese, mustard, dressing"},
+    {"name":"Chicken salad", "code":46, "img":"https://i.postimg.cc/FRzPK7YB/salat-iz-kuricy-avokado-s-kedrovymi-oreskami-jpg.webp", "price":24, "ingredients": "chicken fillet, avocado, lettuce, pine nuts, bread chips, cremette cheese dressing"},
+    {"name":"Greek salad", "code":47, "img":"https://i.postimg.cc/CM3VWVtg/salat-greceskij-jpg.webp", "price":18, "ingredients": "tomatoes, cucumbers, sweet peppers, olives, feta cheese, dressing"},
+    {"name":"Parma and pear salad", "code":48, "img":"https://i.postimg.cc/HsbCmhD7/salat-s-parmoj-i-grusej-jpg.webp", "price":23, "ingredients": "salad mix, Parma, pear, quail eggs, cherry tomatoes, pumpkin seeds, honey mustard dressing, microgreens"},
+    {"name":"Pepsi ", "code":49, "img":"https://i.postimg.cc/dVBPkZ0s/pepsi-jpg.webp", "price":2, "ingredients": "🙂"},
+    {"name":"7-up", "code":50, "img":"https://i.postimg.cc/Pq3gKGZ0/s7-up-jpg.webp", "price":2, "ingredients": "🙂"}
+   
+    
+  ]
+  
+                   
+
+  
+}

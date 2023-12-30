@@ -1,0 +1,21 @@
+.PageLink {
+    margin-right: 10px;
+    color: rgb(47, 46, 46);
+}
+.ActivePageLink {
+    font-weight: bold;
+    color: rgb(49, 14, 14);
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 480px) {
+    .links{
+        font-size: 17px;
+    }
+}
