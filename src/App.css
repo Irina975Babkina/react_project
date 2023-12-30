@@ -61,7 +61,6 @@ h1, h2{
     .logo-text {
         font-size: 35px;
     }
-
 }
 @media (max-width: 768px) {
     .logo {
